@@ -1,0 +1,11 @@
+C:\Users\student\Desktop\Дэмоэкзамен СБОЕВ\DEMOSBOEV\DEMOSBOEV\bin\Debug\DEMOSBOEV.exe.config
+C:\Users\student\Desktop\Дэмоэкзамен СБОЕВ\DEMOSBOEV\DEMOSBOEV\bin\Debug\DEMOSBOEV.exe
+C:\Users\student\Desktop\Дэмоэкзамен СБОЕВ\DEMOSBOEV\DEMOSBOEV\bin\Debug\DEMOSBOEV.pdb
+C:\Users\student\Desktop\Дэмоэкзамен СБОЕВ\DEMOSBOEV\DEMOSBOEV\obj\Debug\DEMOSBOEV.csprojAssemblyReference.cache
+C:\Users\student\Desktop\Дэмоэкзамен СБОЕВ\DEMOSBOEV\DEMOSBOEV\obj\Debug\DEMOSBOEV.Agents.resources
+C:\Users\student\Desktop\Дэмоэкзамен СБОЕВ\DEMOSBOEV\DEMOSBOEV\obj\Debug\DEMOSBOEV.Form1.resources
+C:\Users\student\Desktop\Дэмоэкзамен СБОЕВ\DEMOSBOEV\DEMOSBOEV\obj\Debug\DEMOSBOEV.Properties.Resources.resources
+C:\Users\student\Desktop\Дэмоэкзамен СБОЕВ\DEMOSBOEV\DEMOSBOEV\obj\Debug\DEMOSBOEV.csproj.GenerateResource.cache
+C:\Users\student\Desktop\Дэмоэкзамен СБОЕВ\DEMOSBOEV\DEMOSBOEV\obj\Debug\DEMOSBOEV.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Дэмоэкзамен СБОЕВ\DEMOSBOEV\DEMOSBOEV\obj\Debug\DEMOSBOEV.exe
+C:\Users\student\Desktop\Дэмоэкзамен СБОЕВ\DEMOSBOEV\DEMOSBOEV\obj\Debug\DEMOSBOEV.pdb
